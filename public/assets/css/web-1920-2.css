@@ -1,0 +1,210 @@
+/* screen - web-1920-2 */
+
+.web-1920-2 {
+  background-color: var(--black);
+  height: 1080px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.web-1920-2 .img_7235-07RRWM {
+  background-color: transparent;
+  height: 1110px;
+  left: -15px;
+  object-fit: cover;
+  position: absolute;
+  top: -15px;
+  width: 1950px;
+}
+
+.web-1920-2 .rectangle-1-07RRWM {
+  -webkit-backdrop-filter: blur(10px) brightness(68%);
+  backdrop-filter: blur(10px) brightness(68%);
+  background-color: transparent;
+  height: 271px;
+  left: 743px;
+  position: absolute;
+  top: 418px;
+  width: 434px;
+}
+
+.web-1920-2 .balance-07RRWM {
+  background-color: transparent;
+  height: auto;
+  left: 779px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 449px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.web-1920-2 .quantity-07RRWM {
+  background-color: transparent;
+  height: auto;
+  left: 779px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 492px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.web-1920-2 .price-07RRWM {
+  background-color: transparent;
+  height: auto;
+  left: 779px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 535px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.web-1920-2 .total-price-07RRWM {
+  background-color: transparent;
+  height: auto;
+  left: 779px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 578px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.web-1920-2 .x2-eth-07RRWM {
+  background-color: transparent;
+  height: auto;
+  left: 1087px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: right;
+  top: 449px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.web-1920-2 .x2-07RRWM {
+  background-color: transparent;
+  height: auto;
+  left: 1083px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: right;
+  top: 492px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.web-1920-2 .x01-eth-07RRWM {
+  background-color: transparent;
+  height: auto;
+  left: 1024px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: right;
+  top: 535px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.web-1920-2 .x02-eth-07RRWM {
+  background-color: transparent;
+  height: auto;
+  left: 1024px; 
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: right;
+  top: 578px;
+  white-space: nowrap;
+  width: 119;
+}
+
+.web-1920-2 .rectangle-3-07RRWM {
+  background-color: var(--white);
+  height: 40px;
+  left: 875px;
+  position: absolute;
+  top: 623px;
+  width: 192px;
+}
+
+.web-1920-2 .mint-07RRWM {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 945px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 632px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.web-1920-2 .rectangle-11-07RRWM {
+  -webkit-backdrop-filter: blur(10px) brightness(68%);
+  backdrop-filter: blur(10px) brightness(68%);
+  background-color: transparent;
+  height: 60px;
+  left: 927px;
+  position: absolute;
+  top: 714px;
+  width: 66px;
+}
+
+.web-1920-2 .icon-twitter-07RRWM {
+  background-color: transparent;
+  height: 28px;
+  left: 943px;
+  object-fit: cover;
+  position: absolute;
+  top: 730px;
+  width: 35px;
+}
+
+.web-1920-2 .component-8-1-HlzXCz {
+  background-color: transparent;
+  height: 27px;
+  left: 875px;
+  position: absolute;
+  top: 689px;
+  width: 173px;
+}
+
+.web-1920-2 .connect-wallet-kdlzAR {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 882px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 632px;
+  white-space: nowrap;
+  width: auto;
+}

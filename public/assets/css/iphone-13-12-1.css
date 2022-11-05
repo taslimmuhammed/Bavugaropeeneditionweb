@@ -1,0 +1,66 @@
+/* screen - iphone-13-12-1 */
+
+.iphone-13-12-1 {
+  background-color: var(--black);
+  height: 1080px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 499px;
+}
+
+.iphone-13-12-1 .img_7235-20vHYb {
+  background-color: transparent;
+  height: 1080px;
+  left: -541px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.iphone-13-12-1 .rectangle-2-20vHYb {
+  -webkit-backdrop-filter: blur(10px) brightness(68%);
+  backdrop-filter: blur(10px) brightness(68%);
+  background-color: transparent;
+  height: 60px;
+  left: 130px;
+  position: absolute;
+  top: 672px;
+  width: 240px;
+}
+
+.iphone-13-12-1 .connect-wallet-20vHYb {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 165px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 692px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.iphone-13-12-1 .rectangle-8-20vHYb {
+  -webkit-backdrop-filter: blur(10px) brightness(68%);
+  backdrop-filter: blur(10px) brightness(68%);
+  background-color: transparent;
+  height: 60px;
+  left: 217px;
+  position: absolute;
+  top: 757px;
+  width: 66px;
+}
+
+.iphone-13-12-1 .icon-twitter-20vHYb {
+  background-color: transparent;
+  height: 28px;
+  left: 233px;
+  object-fit: cover;
+  position: absolute;
+  top: 773px;
+  width: 35px;
+}

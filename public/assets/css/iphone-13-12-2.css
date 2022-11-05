@@ -1,0 +1,183 @@
+/* screen - iphone-13-12-2 */
+
+.iphone-13-12-2 {
+  background-color: var(--black);
+  height: 1080px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 499px;
+}
+
+.iphone-13-12-2 .img_7235-MkjMjl {
+  background-color: transparent;
+  height: 1110px;
+  left: -556px;
+  object-fit: cover;
+  position: absolute;
+  top: -15px;
+  width: 1950px;
+}
+
+.iphone-13-12-2 .rectangle-5-MkjMjl {
+  -webkit-backdrop-filter: blur(10px) brightness(68%);
+  backdrop-filter: blur(10px) brightness(68%);
+  background-color: transparent;
+  height: 271px;
+  left: 33px;
+  position: absolute;
+  top: 405px;
+  width: 434px;
+}
+
+.iphone-13-12-2 .balance-MkjMjl {
+  background-color: transparent;
+  height: auto;
+  left: 69px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 436px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.iphone-13-12-2 .quantity-MkjMjl {
+  background-color: transparent;
+  height: auto;
+  left: 69px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 479px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.iphone-13-12-2 .price-MkjMjl {
+  background-color: transparent;
+  height: auto;
+  left: 69px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 522px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.iphone-13-12-2 .total-price-MkjMjl {
+  background-color: transparent;
+  height: auto;
+  left: 69px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 565px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.iphone-13-12-2 .x2-eth-MkjMjl {
+  background-color: transparent;
+  height: auto;
+  left: 377px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: right;
+  top: 436px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.iphone-13-12-2 .x2-MkjMjl {
+  background-color: transparent;
+  height: auto;
+  left: 373px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: right;
+  top: 479px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.iphone-13-12-2 .x01-eth-MkjMjl {
+  background-color: transparent;
+  height: auto;
+  left: 364px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: right;
+  top: 522px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.iphone-13-12-2 .x02-eth-MkjMjl {
+  background-color: transparent;
+  height: auto;
+  left: 360px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: right;
+  top: 565px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.iphone-13-12-2 .rectangle-4-MkjMjl {
+  background-color: var(--white);
+  height: 40px;
+  left: 205px;
+  position: absolute;
+  top: 610px;
+  width: 92px;
+}
+
+.iphone-13-12-2 .mint-MkjMjl {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 225px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 620px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.iphone-13-12-2 .rectangle-12-MkjMjl {
+  -webkit-backdrop-filter: blur(10px) brightness(68%);
+  backdrop-filter: blur(10px) brightness(68%);
+  background-color: transparent;
+  height: 60px;
+  left: 217px;
+  position: absolute;
+  top: 714px;
+  width: 66px;
+}
+
+.iphone-13-12-2 .icon-twitter-MkjMjl {
+  background-color: transparent;
+  height: 28px;
+  left: 233px;
+  object-fit: cover;
+  position: absolute;
+  top: 730px;
+  width: 35px;
+}

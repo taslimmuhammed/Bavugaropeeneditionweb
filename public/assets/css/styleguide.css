@@ -1,0 +1,28 @@
+:root { 
+  --black: #000000;
+  --white: #ffffff;
+ 
+  --font-size-m: 22px;
+ 
+  --font-family-montserrat: "Montserrat", Helvetica;
+  --font-family-segoeui-semilight: "SegoeUI-Semilight", Helvetica;
+}
+.segoeui-semi-light-white-22px {
+  color: var(--white);
+  font-family: var(--font-family-segoeui-semilight);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.montserrat-bold-white-22px {
+  color: var(--white);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.border-3px-white {
+  border: 3px solid var(--white);
+}

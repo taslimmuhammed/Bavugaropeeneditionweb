@@ -1,0 +1,88 @@
+/* screen - web-1920-1 */
+
+.web-1920-1 {
+  background-color: var(--black);
+  height: 1080px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.web-1920-1 .img_7235-HlzXCz {
+  background-color: transparent;
+  height: 1080px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.web-1920-1 .rectangle-1-HlzXCz {
+  -webkit-backdrop-filter: blur(10px) brightness(68%);
+  backdrop-filter: blur(10px) brightness(68%);
+  background-color: transparent;
+  height: 60px;
+  left: 840px;
+  position: absolute;
+  top: 672px;
+  width: 240px;
+}
+
+.web-1920-1 .rectangle-7-HlzXCz {
+  -webkit-backdrop-filter: blur(10px) brightness(68%);
+  backdrop-filter: blur(10px) brightness(68%);
+  background-color: transparent;
+  height: 60px;
+  left: 927px;
+  position: absolute;
+  top: 757px;
+  width: 66px;
+}
+
+.web-1920-1 .component-8-1-HlzXCz {
+  background-color: transparent;
+  height: 27px;
+  left: 875px;
+  position: absolute;
+  top: 689px;
+  width: 173px;
+}
+
+.web-1920-1 .connect-wallet-kdlzAR {
+  background-color: transparent;
+  color: #dbdbdb;
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.web-1920-1 .asset-4-HlzXCz {
+  background-color: transparent;
+  height: 28px;
+  left: 943px;
+  position: absolute;
+  top: 773px;
+  width: 35px;
+}
+
+.web-1920-1 .icon-twitter-moebXT {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}

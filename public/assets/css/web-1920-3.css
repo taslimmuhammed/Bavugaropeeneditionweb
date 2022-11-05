@@ -1,0 +1,98 @@
+/* screen - web-1920-3 */
+
+.web-1920-3 {
+  background-color: var(--black);
+  height: 1080px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.web-1920-3 .img_7235-3lkoUN {
+  background-color: transparent;
+  height: 1110px;
+  left: -15px;
+  object-fit: cover;
+  position: absolute;
+  top: -15px;
+  width: 1950px;
+}
+
+.web-1920-3 .rectangle-1-3lkoUN {
+  -webkit-backdrop-filter: blur(10px) brightness(68%);
+  backdrop-filter: blur(10px) brightness(68%);
+  background-color: transparent;
+  height: 244px;
+  left: 832px;
+  position: absolute;
+  top: 418px;
+  width: 256px;
+}
+
+.web-1920-3 .asset-2-3lkoUN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 115px;
+  left: 898px;
+  position: fixed;
+  top: 482px;
+  width: 124px;
+}
+
+.web-1920-3 .asset-2-fXTx1x {
+  background-color: transparent;
+  height: 115px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 124px;
+}
+
+.web-1920-3 .continue-with-3lkoUN {
+  background-color: transparent;
+  height: auto;
+  left: 882px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 438px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.web-1920-3 .metamask-3lkoUN {
+  background-color: transparent;
+  height: auto;
+  left: 902px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 620px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.web-1920-3 .rectangle-10-3lkoUN {
+  -webkit-backdrop-filter: blur(10px) brightness(68%);
+  backdrop-filter: blur(10px) brightness(68%);
+  background-color: transparent;
+  height: 60px;
+  left: 927px;
+  position: absolute;
+  top: 687px;
+  width: 66px;
+}
+
+.web-1920-3 .icon-twitter-3lkoUN {
+  background-color: transparent;
+  height: 28px;
+  left: 943px;
+  object-fit: cover;
+  position: absolute;
+  top: 703px;
+  width: 35px;
+}

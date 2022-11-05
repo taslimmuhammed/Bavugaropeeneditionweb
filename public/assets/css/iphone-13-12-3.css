@@ -1,0 +1,89 @@
+/* screen - iphone-13-12-3 */
+
+.iphone-13-12-3 {
+  background-color: var(--black);
+  height: 1080px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 499px;
+}
+
+.iphone-13-12-3 .img_7235-XC2u1x {
+  background-color: transparent;
+  height: 1110px;
+  left: -556px;
+  object-fit: cover;
+  position: absolute;
+  top: -15px;
+  width: 1950px;
+}
+
+.iphone-13-12-3 .rectangle-6-XC2u1x {
+  -webkit-backdrop-filter: blur(10px) brightness(68%);
+  backdrop-filter: blur(10px) brightness(68%);
+  background-color: transparent;
+  height: 244px;
+  left: 122px;
+  position: absolute;
+  top: 418px;
+  width: 256px;
+}
+
+.iphone-13-12-3 .asset-2-XC2u1x {
+  background-color: transparent;
+  cursor: pointer;
+  height: 109px;
+  left: 192px;
+  object-fit: cover;
+  position: absolute;
+  top: 486px;
+  width: 117px;
+}
+
+.iphone-13-12-3 .continue-with-XC2u1x {
+  background-color: transparent;
+  height: auto;
+  left: 172px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 438px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.iphone-13-12-3 .metamask-XC2u1x {
+  background-color: transparent;
+  height: auto;
+  left: 192px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 620px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.iphone-13-12-3 .rectangle-9-XC2u1x {
+  -webkit-backdrop-filter: blur(10px) brightness(68%);
+  backdrop-filter: blur(10px) brightness(68%);
+  background-color: transparent;
+  height: 60px;
+  left: 217px;
+  position: absolute;
+  top: 687px;
+  width: 66px;
+}
+
+.iphone-13-12-3 .icon-twitter-XC2u1x {
+  background-color: transparent;
+  height: 28px;
+  left: 233px;
+  object-fit: cover;
+  position: absolute;
+  top: 703px;
+  width: 35px;
+}

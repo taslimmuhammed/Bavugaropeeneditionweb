@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:700");
+@font-face {
+  font-family: "SegoeUI-Semilight";
+  font-style: normal;
+  font-weight: 300;
+  src: url("../fonts/segoeuisl.ttf") format("truetype");
+}
+
+/* The following line is used to measure usage of this code in production. For more info see our usage billing page */
+@import url("https://px.animaapp.com/62681474647b15203a9ca8d1.62681477aa0b8c477abc271c.XlEWYrY.hcp.png");
+
+.screen textarea:focus,
+.screen input:focus {
+  outline: none;
+}
+
+.screen * {
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+
+.screen div {
+  -webkit-text-size-adjust: none;
+}
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+* {
+  box-sizing: border-box;
+}
